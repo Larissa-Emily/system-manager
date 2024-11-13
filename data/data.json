@@ -1,0 +1,346 @@
+[
+  {
+    "produtos": [
+      {
+        "nome": "Salada tropical",
+        "categoria": "salada",
+        "preco": "38"
+      }
+    ],
+    "insumos": [
+      {
+        "nome": "Alface crespa",
+        "categoria": "folhas",
+        "quantidade": "50",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Rúcula",
+        "categoria": "folhas",
+        "quantidade": "50",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Azeitona verde",
+        "categoria": "fruta",
+        "quantidade": "100",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Repolho roxo",
+        "categoria": "folhas",
+        "quantidade": "100",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Pepino",
+        "categoria": "hortaliça",
+        "quantidade": "100",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Tomate seco",
+        "categoria": "hortaliça",
+        "quantidade": "100",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Palmito",
+        "categoria": "legume",
+        "quantidade": "1",
+        "unidade": "UN"
+      },
+      {
+        "nome": "Manga fatiada",
+        "categoria": "fruta",
+        "quantidade": "150",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Peito de peru",
+        "categoria": "carne",
+        "quantidade": "150",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Ovo de codorna",
+        "categoria": "ovos",
+        "quantidade": "12",
+        "unidade": "UN"
+      }
+    ]
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Macarrão de abobrinha",
+        "categoria": "massa de legumes",
+        "preco": "25"
+      }
+    ],
+    "insumos": [
+      {
+        "nome": "Abobora verde",
+        "categoria": "legumes",
+        "quantidade": "150",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Molho especial",
+        "categoria": "molho",
+        "quantidade": "50",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Alho picado",
+        "categoria": "-",
+        "quantidade": "3",
+        "unidade": "UN"
+      },
+      {
+        "nome": "Cebola branca",
+        "categoria": "-",
+        "quantidade": "50",
+        "unidade": "KG"
+      }
+    ]
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Frango grelhado",
+        "categoria": "carnes",
+        "preco": "18.90"
+      }
+    ],
+    "insumos": [
+      {
+        "nome": "Filé de peito",
+        "categoria": "carnes",
+        "quantidade": "1",
+        "unidade": "UN"
+      },
+      {
+        "nome": "Ervas finas",
+        "categoria": "ervas",
+        "quantidade": "20",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Azeite",
+        "categoria": "azeite",
+        "quantidade": "10",
+        "unidade": "KG"
+      }
+    ]
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Macarrão com molho de grão de bico",
+        "categoria": "massa",
+        "preco": "25"
+      }
+    ],
+    "insumos": [
+      {
+        "nome": "Grão de bido",
+        "categoria": "leguminosa",
+        "quantidade": "200",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Macarrão",
+        "categoria": "massa",
+        "quantidade": "150",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Alho picado",
+        "categoria": "-",
+        "quantidade": "3",
+        "unidade": "UN"
+      },
+      {
+        "nome": "Cebola branca",
+        "categoria": "-",
+        "quantidade": "50",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Azeite",
+        "Categoria": "oleos",
+        "quantidade": "15",
+        "unidade": "KG"
+      }
+    ]
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Refrigerante Coca-Cola 1L",
+        "categoria": "bebidas",
+        "preco": "4.50"
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Vinho Pergola",
+        "categoria": "Vinhos",
+        "preco": "25"
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Agua Mineral",
+        "categoria": "Bebidas",
+        "preco": "3"
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Refrigerante 200ml",
+        "categoria": "Bebidas",
+        "preco": "2"
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Brochete de filé",
+        "categoria": "Refeição",
+        "preco": "44.90"
+      }
+    ],
+    "insumos": [
+      {
+        "nome": "Arroz",
+        "categoria": "Cereais",
+        "quantidade": "250",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Fritas",
+        "categoria": "Fritas",
+        "quantidade": "100",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Vinagrete",
+        "categoria": "outros",
+        "quantidade": "100",
+        "unidade": "KG"
+      }
+    ]
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Àgua com gás",
+        "categoria": "Bebidas",
+        "preco": "2.50"
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Energético de melancia 350ml",
+        "categoria": "Bebidas",
+        "preco": "8.90"
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Porção de fritas",
+        "categoria": "porção",
+        "preco": 38.9
+      }
+    ],
+    "insumos": [
+      {
+        "nome": "Batata",
+        "categoria": "legumes",
+        "quantidade": "200",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Linguiça",
+        "categoria": "carnes",
+        "quantidade": "200",
+        "unidade": "KG"
+      },
+      {
+        "nome": "Bacon",
+        "categoria": "carnes",
+        "quantidade": "200",
+        "unidade": "KG"
+      }
+    ]
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Bolinho de arroz 100g",
+        "categoria": "petisco",
+        "preco": 10
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Lasanha vegetariana",
+        "categoria": "massa",
+        "preco": 36.5
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Porção de batata frita 500g",
+        "categoria": "fritas",
+        "preco": 38.9
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Mousse de chocolate 250ml",
+        "categoria": "sobremesa",
+        "preco": 15.5
+      }
+    ],
+    "insumos": []
+  },
+  {
+    "produtos": [
+      {
+        "nome": "Torta de limão 250ml",
+        "categoria": "sobremesa",
+        "preco": 17.9
+      }
+    ],
+    "insumos": []
+  }
+]
